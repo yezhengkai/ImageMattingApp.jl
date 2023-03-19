@@ -1,0 +1,7 @@
+name = "ImageMattingApp"
+uuid = "ea02df98-a742-46b8-8bf0-c8493eb8c032"
+authors = ["Zheng-Kai Ye <supon3060@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
