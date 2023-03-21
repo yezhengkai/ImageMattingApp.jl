@@ -19,7 +19,7 @@ Download ONNX version of MODNet to "model/modnet_photographic_portrait_matting.o
 function download_modnet_model()
     mkpath("model")
     Downloads.download(MODNET_MODEL_URL, MODNET_MODEL_PATH)
-    @info "Successful download MODNet ONNX model."
+    @info "Successfully downloaded MODNet ONNX model."
     return nothing
 end
 
